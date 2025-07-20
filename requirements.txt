@@ -1,2 +1,6 @@
 delta
 databricks-cli
+databricks-connect
+
+pyspark
+pyspark-stubs
